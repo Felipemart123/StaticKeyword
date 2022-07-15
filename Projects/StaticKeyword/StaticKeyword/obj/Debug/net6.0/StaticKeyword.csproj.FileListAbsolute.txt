@@ -1,0 +1,15 @@
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/bin/Debug/net6.0/StaticKeyword
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/bin/Debug/net6.0/StaticKeyword.deps.json
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/bin/Debug/net6.0/StaticKeyword.runtimeconfig.json
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/bin/Debug/net6.0/StaticKeyword.dll
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/bin/Debug/net6.0/StaticKeyword.pdb
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.csproj.AssemblyReference.cache
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.AssemblyInfoInputs.cache
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.AssemblyInfo.cs
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.dll
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/refint/StaticKeyword.dll
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.pdb
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/StaticKeyword.genruntimeconfig.cache
+/Users/guillermomartinez/Projects/StaticKeyword/StaticKeyword/obj/Debug/net6.0/ref/StaticKeyword.dll
