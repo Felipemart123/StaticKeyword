@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{1F046D70-05DE-4110-B0ED-5F3CB9DCED44}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StaticKeyword FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StaticKeyword PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticKeyword/Program.cs">
+    <Files>
+      <File FileName="StaticKeyword/Program.cs" Line="10" Column="68" />
+      <File FileName="StaticKeyword/TempConerter.cs" Line="11" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StaticKeyword" expanded="True" selected="True">
+            <Node name="StaticKeyword" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
